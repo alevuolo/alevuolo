@@ -1,6 +1,6 @@
 #  Hi there! 👋
 
-I'm a 23-year-old computer engineering student with a passion for coding, technology and science. Welcome to my GitHub profile!
+I'm a 23-year-old computer engineering student with a passion for coding, technology and science. Welcome to my GitHub profile.
 
 ## About Me
 
