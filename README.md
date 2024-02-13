@@ -26,7 +26,7 @@ Sono uno studente di ingegneria informatica di 23 anni con una passione per l'in
 
 ## Chi sono
 
-- 🎓 Attualmente sto perseguendo una laurea in Ingegneria Informatica.
+- 🎓 Studente laurea triennale in Ingegneria Informatica.
 - 💻 Competente in C/C++, Java, Python e SQL.
 - 🚀 Durante il mio percorso accademico, ho acquisito competenze in Programmazione Orientata agli Oggetti, Programmazione Concorrente nei Sistemi Operativi e nei Sistemi Operativi in Tempo Reale, oltre a tecniche di Ingegneria del Software.
 - 🌟 Sto attualmente iniziando a esplorare il mondo dello sviluppo con Arduino e STM32.
